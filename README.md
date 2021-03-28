@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 20.05.1987  
+**Course Date:** 22.03.2021  
 **Name:** Mustafa  
 **Surname:** Sevim  
 **Email:** sevimmustafa@gmail.com  
